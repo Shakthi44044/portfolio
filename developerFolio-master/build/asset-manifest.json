@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dba715f2.css",
-    "main.js": "/static/js/main.b514371c.js",
+    "main.js": "/static/js/main.85154f8a.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
@@ -10,7 +10,7 @@
     "static/media/swasthMind_Logo.png": "/static/media/swasthMind_Logo.9c3406ff2e13352454d2.png",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/mgr-logo-left.png": "/static/media/mgr-logo-left.b09011db1ff1138aca93.png",
-    "static/media/resume.pdf": "/static/media/resume.84da2c991fd37c84a68a.pdf",
+    "static/media/resume.pdf": "/static/media/resume.5f5cad79e100b152df9a.pdf",
     "static/media/Z1.png": "/static/media/Z1.a0d5309c13cbed576460.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
@@ -25,7 +25,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.99241699e0279aeb0db7.svg",
     "main.dba715f2.css.map": "/static/css/main.dba715f2.css.map",
-    "main.b514371c.js.map": "/static/js/main.b514371c.js.map",
+    "main.85154f8a.js.map": "/static/js/main.85154f8a.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -33,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.dba715f2.css",
-    "static/js/main.b514371c.js"
+    "static/js/main.85154f8a.js"
   ]
 }
