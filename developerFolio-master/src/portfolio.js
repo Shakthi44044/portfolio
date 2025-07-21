@@ -193,14 +193,8 @@ const workExperiences = {
         "Microsoft Learn Student Ambassador (Beta level): Actively contributed to the tech community by hosting events, completing Microsoft Learn paths",
         "Organized and hosted workshops on Azure, AI, and other Microsoft technologies for students and professionals."
       ]
-    },
-    {
-      role: "web developer intern",
-      company: "ZIdeo development",
-      companylogo: require("./assets/images/Z1.png"),
-      date: "January 2024 – march 2024",
-      desc: "Developed and maintained websites for clients using HTML, CSS, and JavaScript",
     }
+    
   ]
 };
 
