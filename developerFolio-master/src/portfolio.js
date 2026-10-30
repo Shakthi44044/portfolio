@@ -49,7 +49,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "CRAZY FULL AI DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji("Develop highly interactive Front end / User Interfaces for your web and mobile applications" ),
     emoji("Microsoft Learn Student Ambassador (BETA)"),
@@ -66,6 +66,11 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "html-5",
       fontAwesomeClassname: "fab fa-html5"
     },
+    {
+      skillName: "large language models",
+      fontAwesomeClassname: "fab fa-llm"
+    },
+
     {
       skillName: "css3",
       fontAwesomeClassname: "fab fa-css3-alt"
@@ -90,14 +95,7 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "machine learning",
       fontAwesomeClassname: "fab fa-machine-learning"
     },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
-    {
-      skillName: "mongodb",
-      fontAwesomeClassname: "fas fa-database"
-    },
+  
     {
       skillName: "aws",
       fontAwesomeClassname: "fab fa-aws"
@@ -160,10 +158,7 @@ const techStack = {
       Stack: "Data Science",
       progressPercentage: "78%"
     },
-    {
-      Stack: "Devops/MLops",
-      progressPercentage: "60%"
-    }
+
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
@@ -369,7 +364,6 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+91-7200703368",
   email_address: "shakthic007@gmail.com"
 };
 
