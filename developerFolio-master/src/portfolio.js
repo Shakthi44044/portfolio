@@ -176,7 +176,7 @@ const workExperiences = {
       
       descBullets: [
         "Developed backend services in Node.js,enhancing functionality for mental healthcare applications",
-        "Collaborated with a cross-functional teamto design and deploy scalable applications."
+        "Collaborated with a cross-functional team to design and deploy scalable applications."
       ]
     },
     {
